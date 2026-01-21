@@ -1,0 +1,7 @@
+{
+  "name": "PRODOC - Gestão Veicular DETRAN",
+  "description": "Plataforma premium para captação de leads, gestão de processos veiculares e central de serviços DETRAN para parceiros e lojistas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
